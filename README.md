@@ -1,6 +1,6 @@
 <!-- <div align="center">  -->
 
-<p align="center"><img align="justify" src="assets/filtr-branding/logo/filtr-logo-3.png" alt="filtr logo" width="500"></p>
+<p align="center"><img align="justify" src="assets/flare-branding/logo/flare-logo-3.png" alt="filtr logo" width="500"></p>
 
 <!-- <p>A flickr Clone</p> -->
 
