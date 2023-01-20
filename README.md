@@ -1,6 +1,6 @@
 <!-- <div align="center">  -->
 
-<p align="center"><img align="justify" src="assets/flare-branding/logo/flare-logo-3.png" alt="flare logo" width="500"></p>
+<p align="center"><img align="justify" src="assets/filtr-branding/logo/filtr-logo-3.png" alt="filtr logo" width="500"></p>
 
 <!-- <p>A flickr Clone</p> -->
 
@@ -32,7 +32,7 @@
 
 ---
 
-When first landing on Flare at the home page the user sees a carousel of images with the option to click on an Explore button in the middle of the page or the other options to login or sign up accessed by clicking on icons on the top right navigation bar.
+When first landing on Filtr at the home page the user sees a carousel of images with the option to click on an Explore button in the middle of the page or the other options to login or sign up accessed by clicking on icons on the top right navigation bar.
 
 ---
 
@@ -56,7 +56,7 @@ If the user selects sign up, they are directed to a sign up form. Alternately, i
 
 ---
 
-If the user selects the explore option from the landing page, they are directed to a feed of all the photos in the Flare library. This allows us to feature the interactive photography element of the app.
+If the user selects the explore option from the landing page, they are directed to a feed of all the photos in the Filtr library. This allows us to feature the interactive photography element of the app.
 
 ---
 
@@ -235,10 +235,10 @@ Upcoming features will include the ability to edit comments and tags features so
 
 <!-- ## 🖱 Demo
 
-Check out flare for yourself. Click the icon below to be redirected to Render, the current hosting site for the fullstack API: -->
+Check out filtr for yourself. Click the icon below to be redirected to Render, the current hosting site for the fullstack API: -->
 
 <!-- <p>
-<a href="https://dashboard.render.com/"><img vertical-align="middle" alt="Flare live site hosted via Render" width="45px" src="assets/social-media-branding/render-logo.jpeg"/></a> -->
+<a href="https://dashboard.render.com/"><img vertical-align="middle" alt="Filtr live site hosted via Render" width="45px" src="assets/social-media-branding/render-logo.jpeg"/></a> -->
 
 ---
 
